@@ -1,0 +1,24 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+}
+.header h1{
+    background-color: #4B9CD3;
+    margin:0;
+    padding: 10px;
+    font-weight: bold;
+}
+main {
+    min-height: calc(100vh - 56px - 54.4px);
+}
+.picture {
+    float: right;
+}
+.content {
+    padding: 10px;
+}
+footer {
+    background-color: #4B9CD3;
+    padding: 2px;
+    color: #fff;
+}
